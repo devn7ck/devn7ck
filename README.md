@@ -1,6 +1,12 @@
 ### Hi there 👋 I'm Nicholas. 
-### Here's a bit about me..
 
+####  🔭 I’m currently working on a personal project(website)
+####  🌱 I’m currently learning Flutter & React
+####  👯 I’m looking to collaborate on web development & flutter application projects
+####  💬 Ask me about my programming journey
+####  📫 How to reach me: nichelamp13@gmail.com
+####  ⚡ Fun fact: Bugs are more attracted to newbies.
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-amponsah-na00233) 
@@ -45,23 +51,23 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devn7ck&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 💰 Kindly support me 
+## 💰 Kindly support me | Buy me a coffee
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devn7ck)
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **devn7ck/devn7ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my university project(flutter mobile application)
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on web applications
+- 🔭 I’m currently working on a personal project(website)
+- 🌱 I’m currently learning Flutter & React
+- 👯 I’m looking to collaborate on web development & flutter application projects
 - 💬 Ask me about my programming journey
 - 📫 How to reach me: nichelamp13@gmail.com
 - 😄 Pronouns: He/Him
