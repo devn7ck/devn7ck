@@ -5,7 +5,7 @@
 ####  👯 I’m looking to collaborate on web development & flutter application projects
 ####  💬 Ask me about my programming journey
 ####  📫 How to reach me: nichelamp13@gmail.com
-####  ⚡ Fun fact: Bugs are more attracted to newbies.
+####  ⚡ Fun fact: You're here out of curiousity.
 <br>
 
 ## 🌐 Socials:
