@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nicholas. 
 
-####  🔭 I’m currently working on a personal project(website)
+####  🔭 I’m currently working on myself
 ####  🌱 I’m currently learning Flutter & React
 ####  👯 I’m looking to collaborate on web development & flutter application projects
 ####  💬 Ask me about my programming journey
